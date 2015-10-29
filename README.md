@@ -1,5 +1,4 @@
-[![Build Status](your travis urlfor the repo here.png)](https://travis-ci.org/Ice-maker/chuck_joke/)
-
+[![Build Status](https://travis-ci.org/Ice-maker/chuck_joke.svg)](https://travis-ci.org/Icemaker/chuck_joke)
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
