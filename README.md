@@ -1,3 +1,5 @@
+[![Build Status](your travis urlfor the repo here.png)](https://travis-ci.org/Ice-maker/chuck_joke/)
+
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
